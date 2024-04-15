@@ -51,8 +51,6 @@ public class gerenciaBanco {
   }
 }
 
-
-@SuppressWarnings("all")
 class cliente {
   private String nome;
   private String sobrenome;
